@@ -1,3 +1,4 @@
+# Network Speed Tester
 This JavaScript application measures the download speed of an image and displays it in megabits per second (Mbps).
 
 ## Overview
