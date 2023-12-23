@@ -17,10 +17,13 @@ The code provided sets up an event listener for a button click. Upon clicking, t
 2. Open the `index.html` file in a web browser.
 
 ## Usage
+1. Open the `index.html` file in a web browser.
+2. Optionally, modify the image URL or other test parameters in the code.
+3. Click the "CHECK SPEED" button to initiate the speed test.
+4. Observe the loading animation indicating the ongoing test.
+5. Once completed, the calculated download speed will be displayed in Mbps.
 
-1. Click the "CHECK SPEED" button to begin the speed test.
-2. The loading animation will appear while the test is ongoing.
-3. Once the test completes, the calculated download speed will be displayed in Mbps.
+**Note:** Ensure that your internet connection is stable for accurate results
 
 ## Code Explanation
 
